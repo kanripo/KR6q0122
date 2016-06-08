@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:29.938032
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:08
 #+TITLE: 警世
 #+PROPERTY: CBETA_ID X63n1230
 #+PROPERTY: ID KR6q0122
